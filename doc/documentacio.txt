@@ -12,3 +12,6 @@
 
 6 - Treballem la barra de navegacio amb botons i afegint javascript per que quan es polsi ens porti a la seccio corresponen. 
     Aixo es molt util alhora d'utilitzar screen readers.
+
+7 - Canviem la imatge per una libre de drets, enllacem els drets i li afegim un text alt que descrigui el contigut de l'imatge.
+    Ajustem també la mida de la imatge.
