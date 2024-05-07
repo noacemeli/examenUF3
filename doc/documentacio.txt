@@ -1,0 +1,3 @@
+1 - Canviem el colors de fons i la lletra per que sigui mes llegible.
+
+2 - Afegirem etiquetes al titols.
