@@ -1,3 +1,6 @@
 1 - Canviem el colors de fons i la lletra per que sigui mes llegible.
 
 2 - Afegirem etiquetes al titols.
+
+3- Afegim mes etiquetes semantiques com header, h2 y sections. També hem creat un nav amb els links y un footer.
+Tots aquest canvis milloren la navegacio i estructura general de la pagina.
