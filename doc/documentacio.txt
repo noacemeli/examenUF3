@@ -26,6 +26,9 @@
     En aquest cas les afegirem al cos, al banner, a la barra de navegació,
     als buttons de la barra, al main, a les sections, a la imatge y finalment al footer.
 
+9 - A la pagina inicial hi ha un enllaç que no porta a cap lloc, com es tracta de un link per trobar mes informació he decidit canviar-lo.
+    He afegit el link de una llibreria que ofereix informació del llibre del que tracta l'article.
+
  ------------------------
 
  
