@@ -2,5 +2,8 @@
 
 2 - Afegirem etiquetes al titols.
 
-3- Afegim mes etiquetes semantiques com header, h2 y sections. També hem creat un nav amb els links y un footer.
-Tots aquest canvis milloren la navegacio i estructura general de la pagina.
+3 - Afegim mes etiquetes semantiques com header, h2 y sections. També hem creat un nav amb els links y un footer.
+    Tots aquest canvis milloren la navegacio i estructura general de la pagina.
+
+4 - En aquest pas afegirem els estils per tal de millorar la lectura augmentan el contrast de colors. He escollit una paleta neutra de blanc, grisos, negre amb toncs de blau mari. 
+    També he separat l'arxiu d'estils.
