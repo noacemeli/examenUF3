@@ -14,10 +14,12 @@
 
       <nav>
         <h2>Navegación</h2>
-        <ul>
-          <li><a href="#seccion1">El problema dels tres cossos</a></li>
-          <li><a href="#seccion2">Universos paral·lels i multidimensió</a></li>
-        </ul>
+        <button onclick="scrollToSection('seccion1')">
+          El problema dels tres cossos
+        </button>
+        <button onclick="scrollToSection('seccion2')">
+          Universos paral·lels i multidimensió
+        </button>
       </nav>
 
       <main>
@@ -133,5 +135,13 @@
         <h2>Pie de Página</h2>
       </footer>
     </div>
+    <script>
+      function scrollToSection(sectionId) {
+        var section = document.getElementById(sectionId);
+        if (section) {
+          section.scrollIntoView({ behavior: "smooth" });
+        }
+      }
+    </script>
   </body>
 </html>

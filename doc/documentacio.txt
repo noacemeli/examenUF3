@@ -9,3 +9,6 @@
     També he separat l'arxiu d'estils.
 
 5 - Ara afegim colors y estructura a les taules. Continuan amb aquesta paleta neutra per tal de facilita la llectura.
+
+6 - Treballem la barra de navegacio amb botons i afegint javascript per que quan es polsi ens porti a la seccio corresponen. 
+    Aixo es molt util alhora d'utilitzar screen readers.
