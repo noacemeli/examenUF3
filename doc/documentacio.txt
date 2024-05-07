@@ -7,3 +7,5 @@
 
 4 - En aquest pas afegirem els estils per tal de millorar la lectura augmentan el contrast de colors. He escollit una paleta neutra de blanc, grisos, negre amb toncs de blau mari. 
     També he separat l'arxiu d'estils.
+
+5 - Ara afegim colors y estructura a les taules. Continuan amb aquesta paleta neutra per tal de facilita la llectura.
